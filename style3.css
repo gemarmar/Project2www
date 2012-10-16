@@ -1,0 +1,167 @@
+body{
+
+	background-color:#F0F0F0;
+	background-image:url('simply.jpg');
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	border:10px solid #F0E68C;
+	margin:10px;
+
+}
+
+
+table{
+
+	width:100%;
+
+}
+
+
+a:link{
+
+	color:red;
+
+}
+
+
+#table_0{
+
+	font-family:"Comic Sans", Comic Sans MS, cursive;
+	color:#F0E68C;
+
+}
+
+
+.cv{
+
+	width:100%;
+	text-align:center;
+	font-size:18pt;
+
+}
+
+
+.header{
+
+	font-family:"Comic Sans", Comic Sans MS, cursive;
+	width:40%;
+	text-align:right;
+	font-size:15pt;
+	color:#F0E68C;
+
+}
+
+
+table { 
+
+	  
+ 	margin-bottom:50px; 
+	border-collapse: collapse;
+
+}
+
+
+.first_col{
+
+	font-family:"Comic Sans", Comic Sans MS, cursive;	
+	color:#FFFFFF;
+	width:30%;
+	margin-bottom:50px;
+	text-align:right;
+
+}
+
+
+.second_col{
+
+	font-family:"Comic Sans", Comic Sans MS, cursive;
+	color:#FFFFFF;
+	padding-left:40px;
+	width:70%;
+
+}
+
+
+.second_col_name{
+
+	font-family:"Comic Sans", Comic Sans MS, cursive;
+	border-top: 2px  solid #F0E68C;
+	color:#FFFFFF;
+	padding-left:40px;
+	width:70%;
+
+}
+
+
+tbody tr:first-child .second_col{
+
+	border-top: 2px  solid #F0E68C;
+
+}
+
+
+@media 
+
+(min-device-width: 460px)  {
+
+.second_col{
+
+	padding-left:10px;
+
+}
+
+.second_col_name{
+
+	padding-left:10px;
+
+}
+
+#table_1 .header{
+
+ 	padding-left:50px;
+
+}
+
+#table_2 .header{
+
+ 	padding-left:75px;
+
+}
+
+#table_3 .header{
+
+ 	padding-left:75px;
+
+}
+
+#table_4 .header{
+
+ 	padding-left:90px;
+
+}
+
+#table_5 .header{
+
+ 	padding-left:65px;
+}
+
+#table_6 .header{
+
+ 	padding-left:127px;
+
+}
+
+#table_7 .header{
+
+ 	padding-left:40px;
+
+}
+
+#table_8 .header{
+
+ 	padding-left:0px;
+
+}
+
+
+}

@@ -1,0 +1,152 @@
+body{
+
+	background-color:#F0F0F0;
+	border:20px solid white;
+	margin:10px;
+
+}
+
+
+table{
+
+	width:100%;
+
+}
+
+#table_0{
+
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	background-color:#D8D8D8;
+	border:2px solid black;
+
+}
+
+
+.cv {
+
+	width:100%;
+	text-align:center;
+	font-size:18pt;
+
+}
+
+ 
+
+.header{
+
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	width:40%;
+	text-align:right;
+	font-size:15pt;
+	border-bottom: 2px  solid grey;
+	border-right: 2px  solid grey;
+	border-top: 2px  solid grey;
+ 
+}
+
+
+table { 
+	
+	//border-bottom: 2px;  
+ 	margin-bottom:50px; 
+	border-collapse: collapse;
+
+}
+
+
+.first_col{
+
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	width:30%;
+	margin-bottom:50px;
+	text-align:right;
+	border-right: 2px  solid grey;
+
+}
+
+
+.second_col{
+
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	padding-left:40px;
+	width:70%;
+
+
+}
+
+
+.second_col_name{
+
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	padding-left:40px;
+	width:70%;
+
+}
+
+
+@media 
+
+(min-device-width: 460px)  {
+
+.second_col{
+
+	padding-left:10px;
+
+}
+
+.second_col_name{
+
+	padding-left:10px;
+
+}
+
+#table_1 .header{
+
+	padding-left:50px;
+
+}
+
+#table_2 .header{
+
+	padding-left:75px;
+
+}
+
+#table_3 .header{
+
+ 	padding-left:75px;
+
+}
+
+#table_4 .header{
+
+ 	padding-left:90px;
+
+}
+
+#table_5 .header{
+
+ 	padding-left:65px;
+
+}
+
+#table_6 .header{
+
+ 	padding-left:127px;
+
+}
+
+#table_7 .header{
+
+ 	padding-left:40px;
+
+}
+
+#table_8 .header{
+
+ 	padding-left:0px;
+
+}
+
+
+}

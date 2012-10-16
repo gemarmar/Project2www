@@ -1,0 +1,208 @@
+body{
+
+ 	position:absolute;	
+	left:20px;
+
+}
+
+
+.cv{
+
+    	color: #333333;
+    	font-family: "Arial Narrow";
+    	font-size: 11pt;
+    	font-weight: bold;
+    	padding: 5px;
+    	text-align: right;
+	border-right:2px solid #484848;
+	border-top:2px solid #484848;
+	width: 30%;
+
+}
+
+
+.header{
+
+    	color: #333333;
+    	font-family: "Arial Narrow";
+    	font-size: 11pt;
+    	font-weight: bold;
+    	padding: 5px;
+    	text-align: right;
+	padding-right:10px;
+	text-align:right;
+	width: 30%;
+	border-right:2px solid #484848;
+
+}
+
+
+.first_col{
+
+	color: #333333;
+    	font-family: "Arial Narrow";
+    	font-size: 11pt;
+    	text-align: right;
+    	border-right:2px solid #484848;
+	padding-right:10px;
+	text-align:right;
+	width: 28.8%;
+
+}
+
+
+.second_col{
+
+    	color: #333333;
+    	font-family: "Arial Narrow";
+    	font-size: 11pt;
+    	padding: 5px;
+    	text-align: right;
+	padding-left:10px;
+	text-align:left;
+	width:71.2%;
+
+}
+
+
+.second_col_name{
+
+    	color: #333333;
+   	font-family: "Arial Narrow";
+    	font-size: 11pt;
+    	font-weight: bold;
+    	padding: 5px;
+    	text-align: right;
+	padding-left:10px;
+	text-align:left;
+	width:71.2%;
+
+}
+
+
+table {
+ 
+	width: 100%;
+	border-collapse: collapse; 
+        
+}
+
+
+th,td{
+
+	text-align: left; 
+	padding:5px;
+
+}
+
+
+@media 
+
+(min-device-width: 1440px)  {
+
+#table_1 .header{
+
+ 	padding-left:42px;
+
+}
+
+#table_2 .header{
+
+	padding-left:61px;
+
+}
+
+#table_3 .header{
+
+ 	padding-left:54px;
+
+}
+
+#table_4 .header{
+
+ 	padding-left:73px;
+
+}
+
+#table_5 .header{
+
+ 	padding-left:57px;
+
+}
+
+#table_6 .header{
+
+ 	padding-left:97px;
+
+}
+
+#table_7 .header{
+
+ 	padding-left:42px;
+
+}
+
+#table_8 .header{
+
+	padding-left:16px;
+
+}
+
+
+}
+
+@media 
+
+(max-device-width: 1280px)  {
+
+#table_1 .header{
+
+ 	padding-left:38px;
+
+}
+
+#table_2 .header{
+
+	padding-left:54px;
+
+}
+
+#table_3 .header{
+
+ 	padding-left:49px;
+
+}
+
+#table_4 .header{
+
+ 	padding-left:62px;
+
+}
+
+#table_5 .header{
+
+ 	padding-left:48px;
+
+}
+
+#table_6 .header{
+
+ 	padding-left:83px;
+
+}
+
+#table_7 .header{
+
+ 	padding-left:38px;
+
+}
+
+#table_8 .header{
+
+	padding-left:16px;
+
+}
+
+
+}
+
